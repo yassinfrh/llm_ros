@@ -1,4 +1,3 @@
 string prompt
-string system_prompt
 ---
 string response

@@ -20,6 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'llm_service = llm_ros.llm_service:main',
         ],
     },
 )
